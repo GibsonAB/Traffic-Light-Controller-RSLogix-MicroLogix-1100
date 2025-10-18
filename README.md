@@ -4,5 +4,7 @@ This project implements a multi-directional traffic signal controller using an A
 You can test this project using:
 
 RSLogix Micro Starter Lite
+
 RSLinx Classic
+
 MicroLogix 1100 Emulator (Allen-Bradley)
