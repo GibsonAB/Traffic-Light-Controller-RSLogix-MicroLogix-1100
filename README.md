@@ -20,3 +20,19 @@ Manual enable logic using start/stop switches.
 Interlocked outputs to prevent cross-direction greens.
 
 Failsafe fallback (“Yellow for all”) when inactive.
+
+**I am using:**
+
+2 switches (Start, Stop)
+
+6 timers (TON)
+
+Comparison gates: LES, GRT
+
+Digital logic: AND, OR (through series/parallel rungs)
+
+10 outputs
+
+END instruction
+
+PLC features: timer bits (EN, DN, TT), comparison logic, and I/O mapping
